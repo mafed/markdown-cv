@@ -1,31 +1,142 @@
 ---
+<<<<<<< HEAD
+layout: cv
+title: Federico Mattiello's CV
+---
+
+![profile](profile.jpg)
+
+# Federico Mattiello
+Senior Statistician in the "Pharma Development Biometrics Biostatistics" unit at Roche
+
+<div id="webaddress">
+<a href="mailto:federico.mattiello@gmail.com">@gmail</a>
+<a href="mailto:federico.mattiello@roche.com">@roche</a>
+| <a href="https://www.linkedin.com/profile/view?id=125233914">LinkedIn</a>, Phone: +41 76 815 02 01
+</div>
+=======
 layout: default
 ---
 
 Tired of using LaTeX to make your CV look pretty? Can't remember how to set margins in your TeX file? Refusing to compromise and "just use Word"?
 
 [markdown-cv](http://elipapa.github.io/markdown-cv/) is a simple template to list all your accomplishments in a readable Markdown file. It uses CSS to style your text into a stylish web page. It can also be printed as PDF.
+>>>>>>> 10e7607a5c736a61560a3bbab3092dd1e90905d4
 
 ### what does that mean?
 
+<<<<<<< HEAD
+## Currently (03/2016 - today)
+
+Senior Statistical Scientist at Roche, working on clinical development programs and company-wide projects
+=======
 Write your CV like this...
 
 <img src="img/mdown.png" style="width: 60%; -webkit-filter: drop-shadow(5px 5px 5px #222); filter: drop-shadow(5px 5px 5px #222);" >
+>>>>>>> 10e7607a5c736a61560a3bbab3092dd1e90905d4
 
 and use [jekyll](https://jekyllrb.com/) or [github pages](https://pages.github.com/) to make it look like this..
 
+<<<<<<< HEAD
+Clinical trial design and simulation, permutation tests and NonParametric Combination Methodology
+
+=======
 <img src="img/output.png" style="width: 60%; -webkit-filter: drop-shadow(5px 5px 5px #222); filter: drop-shadow(5px 5px 5px #222);" >
+>>>>>>> 10e7607a5c736a61560a3bbab3092dd1e90905d4
 
 
+<<<<<<< HEAD
+high-dimensional data analysis, Probabilistic Index Models, simulation, modelling, statistical learning
+
+
+=======
 
 ## Usage
 
 To start, simply [fork the markdown-cv repo](https://github.com/elipapa/markdown-cv)
+>>>>>>> 10e7607a5c736a61560a3bbab3092dd1e90905d4
 
 ![](https://help.github.com/assets/images/help/repository/fork_button.jpg)
 
 and then [edit directly in github](https://help.github.com/articles/editing-files-in-your-repository/) the `index.md` file
 
+<<<<<<< HEAD
+`04/2012 - 02/2016`
+**Researcher/Ph.D. Student** Department of *Mathematical Modelling, Statistics and Bioinformatics*, Ghent University, Gent. 
+*Topics:* data integration in drug-development, analysis of microbiome sequencing data.
+
+`10/2010 - 02/2015`
+**Ph.D. degree** at Department of Statistical Sciences, 
+University of Bologna.     
+Thesis: *"Permutation-Based Stochastic Ordering Using Pairwise Comparisons"*
+[direct link](http://amsdottorato.unibo.it/6735/1/Mattiello_Federico_tesi.pdf)
+
+`10/2004-07/2010`
+**University of Padova** Bachelor (2004--2008) and Master (2008-2010) in "Statistics and Informatics"
+
+
+## Research Collaborations
+
+**IAP-StUDyS (2014-2016):** network of EU-funded projects (*"Phase VII"*).
+Topic: developing models for *microbiome 16S sequencing data*.
+
+**QSTAR: (2012-2014)** project co-funded by IWT (flemish government agency) and Janssen Pharmaceutica. 
+Topic: assess benefits of integrating *transcriptomics data* into early-stage drug development.
+
+
+## Skills
+
+### **Hard Skills**
+
+**R:** power user
+
+**Git/GitHub:** intermediate
+
+**reporting:** in particular with _Rmarkdown, LaTeX_.
+
+**Shiny:** to develop interactive web applications with _R_.
+
+**Others:** some experience with _python_, _C++_, _Linux_ OS, 
+
+
+### _Soft Skills_
+
+I love to _learn_, culturally and scientifically speaking, curiosity is my strongest point.     
+Trying to understand _"the why"_ and how things/processes work is what motivates me, I strive to constantly improve my _system awareness_.
+Presenting to a non-statistical audience it's fun, because messages need to be communicated effectively, complexity needs to be simplified.
+I'm open-minded and collaborative when in a team, but if I see that something can be done better by myself I go for it.     
+
+
+
+## Personal Interests
+
+I love reading books about statistics, mathematics, popular science (physics, mathematics, logic), psychology, oriental philosophy, and novels dealing with journeys and different cultures. I also love independent movies, my favourite ones come from Italy, Japan, Korea, France, U.K., and Bollywood.
+
+
+## Work Experience
+
+**Teaching:** _"introductory statistics"_ to political sciences' students,       
+**Tutoring:** fellow students for master course of _"Advanced Statistics"_       
+**Data-entry:** and analysis of perceived chemical risk in food.    
+**Summer jobs:** tile poser, electrician, construction of security glasses.   
+
+
+## Languages
+
+_Italian:_ native language,  
+_English_ at C1 level (professional and not), 
+_Dutch_ at B1 level, 
+_German_ and 
+_Spanish_ as a beginner A1/A2.
+
+
+
+## TODO: add publications
+
+<!-- ### Footer
+
+Last updated: November 2019 -->
+=======
 ![](https://help.github.com/assets/images/help/repository/edit-file-edit-button.png)
 
 adding your skills, jobs and education.
@@ -79,6 +190,7 @@ Eliseo Papa ([Twitter](http://twitter.com/elipapa)/[GitHub](http://github.com/el
 ![Eliseo Papa](https://s.gravatar.com/avatar/eae1f0c01afda2bed9ce9cb88f6873f6?s=100)
 
 ### License
+>>>>>>> 10e7607a5c736a61560a3bbab3092dd1e90905d4
 
 [MIT License](https://github.com/elipapa/markdown-cv/blob/master/LICENSE)
 
